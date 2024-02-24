@@ -1,0 +1,17 @@
+24/02/2024 11:42:59 | Request: /subjects/list Method: GET
+24/02/2024 11:43:00 | Request: /subjects/list Method: GET
+24/02/2024 11:43:45 | Request: /subjects/list Method: GET
+24/02/2024 11:43:46 | Request: /subjects/list Method: GET
+24/02/2024 11:43:49 | Request: /subjects/list Method: GET
+24/02/2024 11:43:50 | Request: /subjects/list Method: GET
+24/02/2024 11:43:51 | Request: /subjects/list Method: GET
+24/02/2024 11:43:52 | Request: /subjects/list Method: GET
+24/02/2024 11:44:20 | Request: /lessons/list?id=35342 Method: GET
+24/02/2024 11:44:28 | Request: /lessons/list?id=35342 Method: GET
+24/02/2024 11:44:29 | Request: /lessons/list?id=3 Method: GET
+24/02/2024 11:44:32 | Request: /lessons/list?id=35342 Method: GET
+24/02/2024 11:44:32 | Request: /lessons/list?id=1 Method: GET
+24/02/2024 11:44:35 | Request: /lessons/list?id=35342 Method: GET
+24/02/2024 11:44:35 | Request: /lessons/list?id=1 Method: GET
+24/02/2024 11:44:46 | Request: /lessons/list?id=1 Method: GET
+24/02/2024 11:44:50 | Request: /lessons/list?id=2 Method: GET
